@@ -1,1 +1,11 @@
+```json
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dchandresh36_png.twa",
+        "sha256_cert_fingerprints": ["52:1D:4E:99:EE:8C:C7:27:94:51:BC:EA:11:A7:CB:60:F3:BF:C6:1C:F5:3F:E1:65:8A:62:61:6D:FC:2D:17:2A"]
+      }
+    }]
 
+```
